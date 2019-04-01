@@ -6,19 +6,19 @@
 }
 
 .contents-wrapper {
-  float: left;
-  margin-right: -200px;
+  float: right;
+  margin-left: -200px;
   width: 100%;
 }
 
 .main {
-  margin-right: 200px;
+  margin-left: 200px;
   padding-right: 10px;
   padding-left: 10px;
 }
 
 .aside {
-  float: left;
+  float: right;
   width: 200px;
   padding-right: 10px;
   padding-left: 10px;
